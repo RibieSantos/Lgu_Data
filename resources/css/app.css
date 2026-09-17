@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+:root {
+    /* LGU Brand Colors */
+    --primary: #0f4c81;
+    --primary-hover: #0b3d68;
+
+    --secondary: #2e8b57;
+    --secondary-hover: #256f46;
+    --secondary-light: #d8efe3;
+
+    /* Backgrounds */
+    --bg: #f7fafc;
+    --surface: #ffffff;
+    --sidebar: #edf7f2;
+
+    /* Text */
+    --text: #1f2937;
+    --text-muted: #6b7280;
+
+    /* Borders */
+    --border: #d1d5db;
+    --border-light: #e5e7eb;
+
+    /* Status */
+    --success: #16a34a;
+    --warning: #f59e0b;
+    --error: #dc2626;
+    --info: #0284c7;
+}
